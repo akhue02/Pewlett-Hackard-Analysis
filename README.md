@@ -19,11 +19,11 @@ To download: [unique_titles.csv](https://github.com/akhue02/Pewlett-Hackard-Anal
 - Out of those employees leaving, there are 29,414 Senior Engineers, 28,254 Senior Staff, 14,222 Engineers, 12,243 Staff, 4,502 Technique Leaders, 1,761 Assistant Engineers, and 2 Managers. 
 
 
-To download: [retiring_titles.csv](https://github.com/akhue02/Pewlett-Hackard-Analysis/Data/delievery 1/retiring_titles.csv)
+To download: [retiring_titles.csv](https://github.com/akhue02/Pewlett-Hackard-Analysis/blob/main/Data/delievery%201/Retirees_titles.csv)
 
 - Created the mentorship_eligibility table by joining the employees, department employees, and titles tables. In this case, the criterion for the join was that the employees were born in 1965 and that they were currently working at PH, in order for them to apply to the retiring/mentorship package. There were 1,549 employees eligible 
 
-To download: [mentorship_eligibility.csv](https://github.com/akhue02/Pewlett-Hackard-Analysis/Data/delivery 2/mentorship_table.csv)
+To download: [mentorship_eligibility.csv](https://github.com/akhue02/Pewlett-Hackard-Analysis/blob/main/Data/delivery%202/mentorship_table.csv)
 
 - Out of those eligible employees, there are 402 Engineers, 392 Senior Staff, 332 Staff, 290 Senior Engineers, 77 Technique Leaders, and 56 Assistant Engineers. 
 
